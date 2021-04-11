@@ -1,2 +1,2 @@
 # Calculator
-Calculator using html, css and javascript
+Iphone Calculator using html, css and javascript
